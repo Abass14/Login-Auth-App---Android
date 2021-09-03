@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Task-Five</string>
+    <string name="gender">gender</string>
+    <string name="i_agree_to_terms_of_service">I agree to terms of Service</string>
+    <string name="sign_up_first">Sign up to continue</string>
+    <string name="register_here">Register Here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="log_in">Login</string>
+    <string name="enter_email_and_password_to_login">enter email and password to login</string>
+    <string name="login">login</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="activity_link">Registered member? <u>Login</u></string>
+    <string-array name="genderz">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+</resources>
